@@ -363,7 +363,7 @@ ENST00000367208	355	106.0	79.17673	15.51814
 ---------------------------------------
 
 * Segments for human transcriptome Ensembl GRCh37:
-	* For L=100: (<a href="https://zenodo.org/record/2646964/files/hg19_segs100.fa">`FASTA File`</a>, <a href="https://zenodo.org/record/2646964/files/hg19_segs100.fa.meta">`Meta File`</a>)
+	* For L=100: (<a href="https://zenodo.org/record/2646964/files/hg19_segs100.fa">`FASTA File`</a>, <a href="https://zenodo.org/record/4533415/files/hg19_segs100.fa.meta">`Meta File`</a>)
 	* <a href="https://zenodo.org/record/2646964/files/hg19_5types_noAlt.ioe">`AS Events Annotation (SE, MX, RI, A3, A5)`</a>
 	* <a href="https://zenodo.org/record/2646964/files/hg19_segs100_hg19_5types_noAlt.ioe.flex">`Events-to-segments mapping (SE, MX, RI, A3, A5)`</a>
 	
