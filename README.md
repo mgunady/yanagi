@@ -50,7 +50,7 @@ where the subcommand can be one of these options:
 - **align**         : Pseudo aligns reads (single or paired-end) into the segments and obtain segment counts (single segment or segment pair counts).
 - **psiCalc**       : Calculates PSI values of alternative splicing events based on their segment mappings.
 
-**Note: This tutorial assumes that all commands are excuted from inside the directory where yanagi is downloaded (refer to the previous Download section).**
+**Note: This tutorial assumes that all commands are executed from inside the directory where yanagi is downloaded (refer to the previous Download section).**
 
 ----------------------------
 **Annotation Preprocessing**
@@ -257,7 +257,7 @@ SEG0232653	SEG0232655	1	ENSG00000000457	510	1039	169822815	169824007	ENST0000036
 SEG0232655	SEG0232653	2	ENSG00000000457	1039	510	169824007	169822815	ENST00000367772
 SEG0232655	SEG0232655	8	ENSG00000000457	1039	1039	169824007	169824007	ENST00000367772,ENST00000367771,ENST00000367770
 ```
-Note: txs field for segment-pairs counts represent the intersecton of transcripts from both segments.
+Note: txs field for segment-pairs counts represent the intersection of transcripts from both segments.
 
 -----------------
 **Visualization**
@@ -281,7 +281,7 @@ Support for visualizing segment counts will be added soon.
 =================================
 ---------------------------------
 
-After samples are aligned to the segments using command ```align```, one can process the segments/segment-pairs counts obtained to perform alternative splicing analysis. Yanagi provides a command to calculat PSI values based on segments counts in each of the aligned samples.
+After samples are aligned to the segments using command ```align```, one can process the segments/segment-pairs counts obtained to perform alternative splicing analysis. Yanagi provides a command to calculate PSI values based on segments counts in each of the aligned samples.
 This command calculates PSI values of alternative splicing events based on their segment mappings. 
 
 ### **Command and options** ###
